@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-title {
+    font-weight: 600;
+    color: white;
+}
+
+.section-para {
+    color: white;
+    opacity: 1!important;
+}
+
+.slide-content-img {
+    width: 500px; 
+    height: 300px; 
+    object-fit: cover; 
+    object-position: 100% 0;
+}
+
+@media (min-width: 767px) {
+    .about-decor {
+        max-width: 100%;
+    }    
+}
+
+@media (max-width:767px) {
+    .about-decor {
+        display: none;
+    }
+}
