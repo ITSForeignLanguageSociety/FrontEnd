@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html>
 <head>
     @include('layouts.head')
-</head> 
-    
+</head>
+
 <body>
     @include('layouts.navbar')
 
@@ -11,5 +12,5 @@
     </main>
     @include('layouts.footer')
 </body>
-    
+
 
