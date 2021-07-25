@@ -1,6 +1,9 @@
 @extends('layouts.base')
 
 @section('content')
-    <h1>{{ $post['title'] }}</h1>
-    {!! $post['body'] !!}
+    <div class="container">
+        <h1>{{ $post['title'] }}</h1>
+        <hr>
+        {!! $post['body'] !!}
+    </div>
 @endsection

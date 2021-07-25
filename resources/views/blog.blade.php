@@ -1,7 +1,11 @@
 @extends('layouts.base')
 
 @section('content')
-    @foreach ($blogs as $b)
-        <a href="/blog/{{ $b['slug'] }}">{{ $b['title'] }}</a>
-    @endforeach
+    <div class="container">
+        @foreach ($blogs as $b)
+            <div class="card-body">
+                <a href="/blog/{{ $b['slug'] }}">{{ $b['title'] }}</a>
+            </div>
+        @endforeach
+    </div>
 @endsection
