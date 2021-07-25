@@ -1,7 +1,7 @@
 <nav class="navbar navbar-light navbar-expand-lg fixed-top clean-navbar" style="padding-top: 3px;padding-bottom: 3px;background-color: #e3faff;">
     <div class="container"><a class="navbar-brand logo" href="#">
             <div class="row">
-                <div class="col-3" style="padding: 0;"><img src="img/logo/logo.png" style="width: 5rem;height: 5rem;"></div>
+                <div class="col-3" style="padding: 0;"><img src={{ asset('img/logo/logo.png') }} style="width: 5rem;height: 5rem;"></div>
                 <div class="col-6" style="padding-top: 22px;">
                     <div class="row">
                         <h6 style="margin-bottom: 0;font-weight: bold;">Kabinet Benzaiten</h6>
