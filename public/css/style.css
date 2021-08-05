@@ -12,17 +12,48 @@ body {
     opacity: 1!important;
 }
 
+.section-blue {
+    background-color: #436d9d!important;
+}
+
 .slide-content-img {
-    width: 500px; 
-    height: 300px; 
-    object-fit: cover; 
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
     object-position: 100% 0;
+}
+
+.nilai-card {
+    box-shadow: 0.1em 0.1em 1.5em rgba(102, 100, 100, 0.5);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 1rem;
+}
+
+.nilai-title-shadow {
+    -webkit-box-shadow: -19px -20px 15px -1px #436d9d;
+    box-shadow: -19px -20px 15px -1px #436d9d;
+}
+
+.pengurus-card {
+    flex-shrink: 0;
+    width: 100%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-bottom-right-radius: calc(0.25rem - 1px);
+    border-bottom-left-radius: calc(0.25rem - 1px);
 }
 
 @media (min-width: 767px) {
     .about-decor {
         max-width: 100%;
-    }    
+    }
 }
 
 @media (max-width:767px) {

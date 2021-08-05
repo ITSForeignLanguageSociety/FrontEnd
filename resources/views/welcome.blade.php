@@ -18,7 +18,7 @@
             </div>
         </div>
     </section>
-    <section class="clean-block clean-info" style="background-color: #436d9d;">
+    <section class="clean-block section-blue">
         <div class="container">
             <div class="block-heading">
                 <h2 class="mb-5 section-title">Tentang IFLS</h2>
@@ -102,7 +102,7 @@
             </div>
         </div>
     </section>
-    <section class="clean-block" style="background-color: #436d9d;">
+    <section class="clean-block section-blue">
         <div class="container">
             <div class="block-heading">
                 <div class="row">

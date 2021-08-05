@@ -14,8 +14,8 @@
         </a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navcol-1">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" style="text-transform: none; font-size: 0.9rem;" href="index.html">Beranda</a></li>
-                <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Profil</a></li>
+                <li class="nav-item"><a class="nav-link {{ (Request::is('/')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/') }}">Beranda</a></li>
+                <li class="nav-item"><a class="nav-link {{ (Request::is('profile')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/profile') }}">Profil</a></li>
                 <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Divisi</a></li>
                 <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Prestasi</a></li>
                 <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Big Event</a></li>
