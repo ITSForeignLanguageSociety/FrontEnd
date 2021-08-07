@@ -16,10 +16,10 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link {{ (Request::is('/')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/') }}">Beranda</a></li>
                 <li class="nav-item"><a class="nav-link {{ (Request::is('profile')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/profile') }}">Profil</a></li>
-                <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Divisi</a></li>
-                <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Prestasi</a></li>
-                <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Big Event</a></li>
-                <li class="nav-item"><a class="nav-link" style="text-transform: none; font-size: 0.9rem;" href="#">Contact Us</a></li>
+                <li class="nav-item"><a class="nav-link {{ (Request::is('divisi')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/divisi') }}">Divisi</a></li>
+                <li class="nav-item"><a class="nav-link {{ (Request::is('prestasi')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/prestasi') }}">Prestasi</a></li>
+                <li class="nav-item"><a class="nav-link {{ (Request::is('big-event')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/big-event') }}">Big Event</a></li>
+                <li class="nav-item"><a class="nav-link {{ (Request::is('contact-us')) ? 'active' : '' }}" style="text-transform: none; font-size: 0.9rem;" href="{{ url('/contact-us') }}">Contact Us</a></li>
             </ul>
         </div>
     </div>

@@ -4,7 +4,6 @@
     <link rel="icon" href="/assets/img/logo/logo.png">
     <title>ITS Foreign Language Society</title>
 
-    {{-- <link rel="stylesheet" type="text/css" href="{{ asset('css/app.css') }}"> --}}
     <link rel="stylesheet" href="{{ asset('css/style.css', true) }}">
     <link rel="stylesheet" href="{{ asset('css/Simple-Slider.css', true) }}">
     <link rel="stylesheet" href="{{ asset('css/smoothproducts.css', true) }}">

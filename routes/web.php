@@ -18,7 +18,19 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/profile', function () {
-    return view ('profile');
+    return view('profile');
+});
+Route::get('/divisi', function () {
+    return view('divisi');
+});
+Route::get('/prestasi', function () {
+    return view('prestasi');
+});
+Route::get('/big-event', function () {
+    return view('event');
+});
+Route::get('/contact-us', function() {
+    return view('contact');
 });
 
 Route::prefix('blog')->group(function () {
