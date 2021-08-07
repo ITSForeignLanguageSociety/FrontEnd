@@ -36,6 +36,10 @@ body {
     border-radius: 1rem;
 }
 
+.nilai-card:hover {
+    transform: scale(1.1);
+}
+
 .nilai-title-shadow {
     -webkit-box-shadow: -19px -20px 15px -1px #436d9d;
     box-shadow: -19px -20px 15px -1px #436d9d;
