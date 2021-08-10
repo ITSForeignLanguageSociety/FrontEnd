@@ -118,9 +118,7 @@
                     </div>
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img class="pengurus-card" src="{{ asset('img/profile/pengurus/Yustinus_BPI_2.png') }}" alt="">
-                    </div>
+                    <img class="pengurus-card" src="{{ asset('img/profile/pengurus/profil-10.png') }}" alt="">
                 </div>
                 <div class="col-lg-5 px-5">
                     <div class="card">
@@ -130,73 +128,47 @@
             </div>
             <div class="row d-flex justify-content-center align-items-center">
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Fathimah Aulia_BPI_4.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-07.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Vita VP_BPI_ (1).png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-08.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Arkan_03.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-09.png') }}" alt="" class="pengurus-card">
                 </div>
             </div>
             <div class="row d-flex justify-content-center align-items-center">
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/alhafiz 1.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-20.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Fischa Indaya Bathari 01.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-19.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Dyah Ayu Farah Anggraeni_Eksternal_1.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-18.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Rosita Laili Udhiah_Kominfo_ 2.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-17.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Aurelius Dilectio Y.D._MI_2.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-16.png') }}" alt="" class="pengurus-card">
                 </div>
             </div>
             <div class="row d-flex justify-content-center align-items-center">
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Omahira Al Kahfi_IDS_ (3).png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-11.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Aras_DC_ (1).png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-12.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Vira Varicha Rahmatya_Korea_2.png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-13.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Brahmasta Jalu Damara_IJCA_ (3).png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-14.png') }}" alt="" class="pengurus-card">
                 </div>
                 <div class="col-lg-2">
-                    <div class="card">
-                        <img src="{{ asset('img/profile/pengurus/Arianto Bagus W_IC_ (2).png') }}" alt="" class="pengurus-card">
-                    </div>
+                    <img src="{{ asset('img/profile/pengurus/profil-15.png') }}" alt="" class="pengurus-card">
                 </div>
             </div>
         </div>
