@@ -1,8 +1,8 @@
 @extends('layouts.base')
 
 @section('content')
-<section class="clean-block pt-5" style="background-image:url('img/contact/contact.png');background-size: cover;background-repeat: no-repeat;margin-top:17px;">
-    <div class="container">
+<section class="clean-block pt-5" style="background: center center fixed; min-height: 900px; background-image:url('img/contact/contact.png'); background-size: cover; background-repeat: no-repeat; margin-top: 17px;">
+    <div class="container pt-5">
         <div class="row d-flex justify-content-center align-items-center mb-3">
             <h4><strong>Find more about us here</strong></h4>
         </div>
