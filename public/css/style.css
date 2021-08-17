@@ -54,6 +54,22 @@ body {
     border-bottom-left-radius: calc(0.25rem - 1px);
 }
 
+.prestasi-card {
+    margin: -30px -20px -20px -20px;
+    height: 20em;
+}
+
+.prestasi-circle {
+    height: 3em;
+}
+
+.prestasi-divisi {
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,195,2,1) 100%);
+    border-radius: 40px;
+    display: inline;
+    padding: 0rem 1rem;
+}
+
 @media (min-width: 767px) {
     .about-decor {
         max-width: 100%;

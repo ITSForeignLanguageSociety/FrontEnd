@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('content')
-    <section class="clean-block clean-hero section-blue" style="background-image:url('img/profile/Asset Profil-08.png');color:rgba(0, 0, 0, 0);margin-top:17px;">
+    <section class="clean-block clean-hero section-blue" style="min-height: 900px; background: center center fixed; background-image:url('img/profile/bg profil ifls.png');color:rgba(0, 0, 0, 0);margin-top:17px;">
         <div class="text">
             <h2 class="title-text" style="margin-bottom: 0;"><strong>Meet Our Team</strong></h2>
             <h1 class="title-text"><strong>Kabinet Benzaiten</strong></h1>
