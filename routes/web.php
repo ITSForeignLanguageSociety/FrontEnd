@@ -31,6 +31,15 @@ Route::prefix('divisi')->group(function () {
     Route::get('/ijca', function () {
         return view('divisis.ijca');
     });
+    Route::get('/ihmha', function () {
+        return view('divisis.ihmha');
+    });
+    Route::get('/dc', function () {
+        return view('divisis.dc');
+    });
+    Route::get('/ic', function () {
+        return view('divisis.ic');
+    });
 });
 
 Route::get('/prestasi', function () {

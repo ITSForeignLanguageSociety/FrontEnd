@@ -29,7 +29,7 @@
                 </a>
             </div>
             <div class="col-lg-4 mb-3 d-flex justify-content-center align-items-center">
-                <a href="" style="text-decoration: none!important">
+                <a href="divisi/ihmha" style="text-decoration: none!important">
                     <div class="divisi-card">
                         <div class="card-body text-center">
                             <h3 class="card-title mb-4"><strong>IHMHA</strong></h3>
@@ -43,7 +43,7 @@
         </div>
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col-lg-4 mb-3 d-flex justify-content-center align-items-center">
-                <a href="" style="text-decoration: none!important">
+                <a href="divisi/dc" style="text-decoration: none!important">
                     <div class="divisi-card">
                         <div class="card-body text-center">
                             <h3 class="card-title mb-4"><strong>DC</strong></h3>
@@ -55,7 +55,7 @@
                 </a>
             </div>
             <div class="col-lg-4 mb-3 d-flex justify-content-center align-items-center">
-                <a href="" style="text-decoration: none!important">
+                <a href="divisi/ic" style="text-decoration: none!important">
                     <div class="divisi-card">
                         <div class="card-body text-center">
                             <h3 class="card-title mb-4"><strong>IC</strong></h3>
