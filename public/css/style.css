@@ -16,6 +16,10 @@ body {
     background-color: #436d9d!important;
 }
 
+.section-light-blue {
+    background-color: #ace8ef!important;
+}
+
 .slide-content-img {
     width: 500px;
     height: 300px;
@@ -43,6 +47,26 @@ body {
 .nilai-title-shadow {
     -webkit-box-shadow: -19px -20px 15px -1px #436d9d;
     box-shadow: -19px -20px 15px -1px #436d9d;
+}
+
+.divisi-card {
+    box-shadow: 0.1em 0.1em 1.5em rgba(32, 65, 71, 0.603);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background: rgb(255,255,255);
+    background: linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(227,250,255,1) 20%, rgba(172,232,239,1) 50%, rgba(67,109,157,1) 100%);
+    background-clip: border-box;
+    border-radius: 1rem;
+    color: black!important;
+    width: 18rem;
+    height: 12rem;
+}
+
+.divisi-card:hover {
+    transform: scale(1.1);
 }
 
 .pengurus-card {
