@@ -20,9 +20,19 @@ Route::get('/', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
-Route::get('/divisi', function () {
-    return view('divisi');
+
+Route::prefix('divisi')->group(function () {
+    Route::get('/', function () {
+        return view('divisi');
+    });
+    Route::get('/ids', function () {
+        return view('divisis.ids');
+    });
+    Route::get('/ijca', function () {
+        return view('divisis.ijca');
+    });
 });
+
 Route::get('/prestasi', function () {
     return view('prestasi');
 });
