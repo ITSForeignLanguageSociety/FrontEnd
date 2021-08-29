@@ -60,8 +60,7 @@
                 <div class="nilai-card" style="width: 18rem;">
                     <div class="card-body text-center">
                         <p class="card-text">
-                            <strong>+62 812 345 6789</strong>
-                            <strong>test@email.com</strong>
+                            <strong>foreignlanguageits@gmail.com</strong>
                         </p>
                     </div>
                   </div>
