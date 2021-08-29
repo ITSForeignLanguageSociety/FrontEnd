@@ -144,8 +144,20 @@ body {
     }
 }
 
-@media (max-width:767px) {
+@media (max-width: 767px) {
     .about-decor {
         display: none;
+    }
+}
+
+@media (min-width: 960px) {
+    .small-prestasi {
+        display: none!important;
+    }
+}
+
+@media (max-width: 960px) {
+    .large-prestasi.row {
+        display: none!important;
     }
 }
