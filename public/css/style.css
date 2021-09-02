@@ -215,3 +215,18 @@ body {
         font-size: 3rem;
     }
 }
+
+@media (max-width: 992px) {
+    .vm-card-lg {
+        display: none!important;
+    }
+}
+
+@media (min-width: 992px) {
+    .v-card {
+        height: 300px;
+    }
+    .vm-card-sm {
+        display: none!important;
+    }
+}

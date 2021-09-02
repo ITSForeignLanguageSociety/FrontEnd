@@ -113,9 +113,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 px-5">
-                    <div class="vm-card">
+                    <div class="vm-card v-card">
                         <h2 class="vm-title v-title">Visi</h2>
-                        <div class="card-body text-center" style="height: 255px">
+                        <div class="card-body text-center" >
                             <p class="v-para">
                                 Menciptakan IFLS yang adaptif, inovatif, dan koordinatif sebagai
                                 wadah optimasi kemampuan bahasa dan budaya asing serta pengembangan
@@ -124,10 +124,24 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-5 px-5 vm-card-sm mt-5">
+                    <div class="vm-card">
+                        <h2 class="vm-title m-title">Misi</h2>
+                        <div class="card-body" >
+                            <ol class="m-list">
+                                <li>Menciptakan IFLS yang siap berkembang dengan berbagai tantangan dan keadaan.</li>
+                                <li>Menumbuhkan semangat anggota IFLS untuk berkreasi dan berinovasi dalam bidang bahasa dan budaya asing.</li>
+                                <li>Meningkatkan hubungan antar anggota dan citra IFLS dengan stakeholder.</li>
+                                <li>Menjadikan IFLS sebagai wadah prestasi anggota dalam bidang bahasa dan budaya asing.</li>
+                                <li>Meningkatkan peran dan kontribusi IFLS sebagai salah satu ormawa di ITS.</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img class="img-fluid" src="{{ asset('img/profile/pengurus/profil-10.png') }}" alt="">
                 </div>
-                <div class="col-lg-5 px-5">
+                <div class="col-lg-5 px-5 vm-card-lg">
                     <div class="vm-card">
                         <h2 class="vm-title m-title">Misi</h2>
                         <div class="card-body" >
@@ -143,47 +157,47 @@
                 </div>
             </div>
             <div class="row d-flex justify-content-center align-items-center">
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-07.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-08.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-09.png') }}" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="row d-flex justify-content-center align-items-center">
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-20.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-19.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-18.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-17.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-16.png') }}" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="row d-flex justify-content-center align-items-center">
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-11.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-12.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-13.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-14.png') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-2 d-flex justify-content-center align-items-center">
                     <img src="{{ asset('img/profile/pengurus/profil-15.png') }}" alt="" class="img-fluid">
                 </div>
             </div>

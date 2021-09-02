@@ -59,8 +59,8 @@
             <div class="col-lg-4 mb-3 d-flex justify-content-center align-items-center">
                 <div class="nilai-card" style="width: 18rem;">
                     <div class="card-body text-center">
-                        <p class="card-text">
-                            <strong>foreignlanguageits@gmail.com</strong>
+                        <p class="card-text p-3">
+                            <strong>foreignlanguageits<br>@gmail.com</strong>
                         </p>
                     </div>
                   </div>
