@@ -18,7 +18,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
 
-<script src="{{ asset('js/Simple-Slider.js', true) }}"></script>
-<script src="{{ asset('js/smoothproducts.min.js', true) }}"></script>
-<script src="{{ asset('js/theme.js', true) }}"></script>
+<script src="{{ asset('js/Simple-Slider.js') }}"></script>
+<script src="{{ asset('js/smoothproducts.min.js') }}"></script>
+<script src="{{ asset('js/theme.js') }}"></script>
 
