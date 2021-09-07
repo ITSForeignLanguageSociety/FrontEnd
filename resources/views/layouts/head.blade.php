@@ -4,17 +4,17 @@
     <link rel="icon" href="/assets/img/logo/logo.png">
     <title>ITS Foreign Language Society</title>
 
-    <link rel="stylesheet" href="{{ asset('css/style.css', true) }}">
+    {{-- <link rel="stylesheet" href="{{ asset('css/style.css', true) }}">
     <link rel="stylesheet" href="{{ asset('css/Simple-Slider.css', true) }}">
     <link rel="stylesheet" href="{{ asset('css/smoothproducts.css', true) }}">
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css', true) }}">
-    <link rel="stylesheet" href="{{ asset('css/fontawesome5-overrides.min.css', true) }}">
+    <link rel="stylesheet" href="{{ asset('css/fontawesome5-overrides.min.css', true) }}"> --}}
 
-    {{-- <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('css/Simple-Slider.css') }}">
     <link rel="stylesheet" href="{{ asset('css/smoothproducts.css') }}">
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/fontawesome5-overrides.min.css') }}"> --}}
+    <link rel="stylesheet" href="{{ asset('css/fontawesome5-overrides.min.css') }}">
 
     <link rel="preconnect" href="//fonts.googleapis.com">
     <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
