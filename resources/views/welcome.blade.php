@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('content')
-    <section class="clean-block clean-hero" style="background: fixed; background-image:url(&quot;img/heading.jpg&quot;);color:rgba(0, 0, 0, 0);margin-top:17px;">
+    <section class="clean-block clean-hero" style="background: center center fixed; background-image:url(&quot;img/heading.jpg&quot;);color:rgba(0, 0, 0, 0);margin-top:17px;">
         <div class="text">
             <h2 class="title-text" style="margin-bottom: 0;">Welcome To</h2>
             <h1 class="title-text">ITS Foreign Language Society</h1>
